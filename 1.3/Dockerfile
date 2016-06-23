@@ -6,7 +6,7 @@ RUN  apk add --update \
     postgresql-client \
     build-base \
     imagemagick \
-  && mix local.hex \
+  && mix local.hex --force \
   && rm -rf /var/cache/apk/* /var/tmp/*
 
 CMD ["iex"]
