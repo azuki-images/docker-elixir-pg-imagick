@@ -10,7 +10,7 @@ Elixir Versions (tags)
 ---
 
 <versions>
-- [`latest`, `1`, `1.3`, `1.3.0`](https://github.com/azukiapp/docker-elixir-pg-imagick/blob/v1.3/1.3/Dockerfile)
+- [`latest`, `1`, `1.3`, `1.3.0`](https://github.com/azuki-images/docker-elixir-pg-imagick/blob/v1.3/1.3/Dockerfile)
 </versions>
 
 Image content use http://images.azk.io/#/elixir
@@ -120,11 +120,11 @@ Check LEGAL and LICENSE files for more information.
 [azk]: http://azk.io
 [alpine-packages]: http://pkgs.alpinelinux.org/
 
-[circleci]: https://circleci.com/gh/azukiapp/docker-elixir-pg-imagick
-[circleci-badge]: https://circleci.com/gh/azukiapp/docker-elixir-pg-imagick.svg?style=svg
+[circleci]: https://circleci.com/gh/azuki-images/docker-elixir-pg-imagick
+[circleci-badge]: https://circleci.com/gh/azuki-images/docker-elixir-pg-imagick.svg?style=svg
 
-[imagelayers]: https://imagelayers.io/?images=azukiapp/elixir-pg-imagick:latest,azukiapp/elixir-pg-imagick:1.3,azukiapp/elixir-pg-imagick:1.2,azukiapp/elixir-pg-imagick:1.1,azukiapp/elixir-pg-imagick:1.0
+[imagelayers]: https://imagelayers.io/?images=azukiapp/elixir-pg-imagick:latest,azukiapp/elixir-pg-imagick:1.3
 [imagelayers-badge]: https://imagelayers.io/badge/azukiapp/elixir-pg-imagick:latest.svg
 
-[issues]: https://github.com/azukiapp/docker-elixir-pg-imagick/issues
-[license]: https://github.com/azukiapp/docker-elixir-pg-imagick/blob/master/LICENSE
+[issues]: https://github.com/azuki-images/docker-elixir-pg-imagick/issues
+[license]: https://github.com/azuki-images/docker-elixir-pg-imagick/blob/master/LICENSE
