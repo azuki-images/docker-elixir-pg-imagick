@@ -15,4 +15,8 @@ RUN  apk add --update \
   && mix local.hex --force \
   && rm -rf /var/cache/apk/* /var/tmp/*
 
+COPY entrypoint.sh /
+
+ENTRYPOINT ["/entrypoint.sh"]
+
 CMD ["iex"]
