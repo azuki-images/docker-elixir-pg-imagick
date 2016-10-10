@@ -10,7 +10,7 @@ Elixir Versions (tags)
 ---
 
 <versions>
-- [`latest`, `1`, `1.3`, `1.3.0`](https://github.com/azuki-images/docker-elixir-pg-imagick/blob/v1.3/1.3/Dockerfile)
+- [`latest`, `1`, `1.3`, `1.3.4`](https://github.com/azuki-images/docker-elixir-pg-imagick/blob/v1.3/1.3/Dockerfile)
 </versions>
 
 Image content use http://images.azk.io/#/elixir
